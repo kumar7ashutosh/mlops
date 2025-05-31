@@ -1,1 +1,119 @@
 [2025-05-29 23:47:22,933:INFO:main:welcome to custom log]
+[2025-05-31 01:44:45,036:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-05-31 01:44:45,047:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-05-31 01:46:51,101:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-05-31 01:46:51,104:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-05-31 01:49:49,321:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-05-31 01:49:49,337:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-05-31 01:49:49,348:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-05-31 01:49:49,352:INFO:common:created directory at: artifacts]
+[2025-05-31 01:49:49,355:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-05-31 01:49:51,218:INFO:2366278714:artifacts/data_ingestion/data.zip download! with following info: 
+Date: Fri, 30 May 2025 20:19:50 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With,Accept-Encoding, Accept, X-Requested-With
+x-repository-download: git clone https://github.com/kumar7ashutosh/dataset.git
+x-raw-download: https://raw.githubusercontent.com/kumar7ashutosh/dataset/main/archive%20(42).zip
+ETag: W/"d9d08276a950ae5054baae985cf9c2a9"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/
+Server: github.com
+Accept-Ranges: bytes
+Set-Cookie: _gh_sess=3VSh5kBjnowKz2vlHFtf3E0WjXGFExsq%2FyUJ7AI9BCEOTTZKDwU3EQmUCYTRdUMiNYbOa%2FoXaZyV57HeH%2FFxJ76UwMEREDzKC9q1%2B%2F%2FGtVGuqojY1aRv9f9KuzdidIhQ1fCNs9Cc7RsiUA4Xz2j%2BLFxMfTB8lMxqFJmaOPQDS0VNLbGx4hf0L0wRF6Hj2TLDvzi8crb1a%2B6lHTRN5rVHd56BwTiYtraXCZcuF%2BfcnLGhW8c%2Bc6RD4urCERB1nXEthzaPwAno0%2BbkVvRuG5Qy9A%3D%3D--ZDjBUWt3rKxtTBQ2--b5SFUJ48ASuPWjeiDPy5FQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1122881124.1748636390; Path=/; Domain=github.com; Expires=Sat, 30 May 2026 20:19:50 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 30 May 2026 20:19:50 GMT; HttpOnly; Secure; SameSite=Lax
+X-GitHub-Request-Id: 69C4:1F5E17:2DA9EF:389613:683A12E6
+connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-05-31 01:58:02,326:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-05-31 01:58:02,329:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-05-31 01:58:02,334:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-05-31 01:58:02,337:INFO:common:created directory at: artifacts]
+[2025-05-31 01:58:02,339:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-05-31 01:58:02,341:INFO:2366278714:File already exists of size: ~ 173 KB]
+[2025-05-31 02:07:09,368:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-05-31 02:07:09,370:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-05-31 02:07:09,374:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-05-31 02:07:09,376:INFO:common:created directory at: artifacts]
+[2025-05-31 02:07:09,377:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-05-31 02:07:09,379:INFO:2366278714:File already exists of size: ~ 173 KB]
+[2025-05-31 02:09:37,472:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-05-31 02:09:37,474:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-05-31 02:09:37,478:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-05-31 02:09:37,480:INFO:common:created directory at: artifacts]
+[2025-05-31 02:09:37,482:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-05-31 02:09:39,522:INFO:2366278714:artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 20090
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "f4e102e9277ba490f6a64fd55c7b1a82dfa3bcc68fccfa2428a10cb100ea7a62"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8D09:1FBA74:1E0C:7F06:683A178B
+Accept-Ranges: bytes
+Date: Fri, 30 May 2025 20:39:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10251-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1748637580.618988,VS0,VE331
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e772a50c5dde85bab28946860d3e8baf3046cedd
+Expires: Fri, 30 May 2025 20:44:39 GMT
+Source-Age: 0
+
+]
+[2025-05-31 19:21:24,619:INFO:main:welcome to custom log]
+[2025-05-31 20:20:18,954:INFO:main:welcome to custom log]
+[2025-05-31 20:35:34,375:INFO:main:welcome to custom log]
+[2025-05-31 20:38:05,088:INFO:main:>>> stage Data Ingestion stage started <<<]
+[2025-05-31 20:38:05,088:ERROR:main:'DataIngestionTrainingPipeline' object has no attribute 'main']
+Traceback (most recent call last):
+  File "C:\Users\kumar\OneDrive\Desktop\mlops\main.py", line 7, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'DataIngestionTrainingPipeline' object has no attribute 'main'
+[2025-05-31 20:40:05,589:INFO:main:>>> stage Data Ingestion stage started <<<]
+[2025-05-31 20:40:05,589:ERROR:main:'DataIngestionTrainingPipeline' object has no attribute 'main']
+Traceback (most recent call last):
+  File "C:\Users\kumar\OneDrive\Desktop\mlops\main.py", line 7, in <module>
+    data_ingestion.main()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataIngestionTrainingPipeline' object has no attribute 'main'
+[2025-05-31 20:42:29,908:INFO:main:>>> stage Data Ingestion stage started <<<]
+[2025-05-31 20:42:29,908:ERROR:main:'DataIngestionTrainingPipeline' object has no attribute 'main']
+Traceback (most recent call last):
+  File "C:\Users\kumar\OneDrive\Desktop\mlops\main.py", line 7, in <module>
+    data_ingestion.main()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataIngestionTrainingPipeline' object has no attribute 'main'
+[2025-05-31 20:47:32,968:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-31 20:47:32,968:ERROR:main:'DataIngestionTrainingPipeline' object has no attribute 'main']
+Traceback (most recent call last):
+  File "C:\Users\kumar\OneDrive\Desktop\mlops\main.py", line 7, in <module>
+    data_ingestion.main()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataIngestionTrainingPipeline' object has no attribute 'main'
+[2025-05-31 20:56:39,754:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-31 20:56:39,781:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-05-31 20:56:39,797:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-05-31 20:56:39,818:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-05-31 20:56:39,823:INFO:common:created directory at: artifacts]
+[2025-05-31 20:56:39,824:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-05-31 20:56:39,825:INFO:data_ingestion:File already exists of size: ~ 20 KB]
+[2025-05-31 20:56:39,855:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
